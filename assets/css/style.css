@@ -14,7 +14,19 @@ body {
     padding: 10px;
     font-size: 25px;
 }
-.hr {
-    margin: 10%;
-    border-radius: 10%;
+h3 {
+    padding: 15px;
+}
+hr {
+    margin: 20px ; 
+    padding: 20px ;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+#molestia {
+    height: 190px;
+}
+.card {
+    background-color: #00ffff;
+    color: #ffffff;
 }
