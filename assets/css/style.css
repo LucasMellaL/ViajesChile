@@ -9,3 +9,12 @@ body {
 
    color:#000000;
 }
+#cajitas {
+    background-color:#00ffff ;
+    padding: 10px;
+    font-size: 25px;
+}
+.hr {
+    margin: 10%;
+    border-radius: 10%;
+}
