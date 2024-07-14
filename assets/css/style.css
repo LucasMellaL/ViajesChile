@@ -30,3 +30,16 @@ hr {
     background-color: #00ffff;
     color: #ffffff;
 }
+#form {
+    text-align: left;
+}
+#button {
+    background-color: #00ffff;
+    
+}
+footer {
+    background-color: #00ffff;
+    padding: 30px;
+    color: #ffffff;
+    
+}
